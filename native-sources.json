@@ -9,7 +9,10 @@
     "motion_tracking_rl/networks/actor_critic.py": "12e290ee6a279e648cce90b0dbec3d3aee8bbf519657b7a773f715f7b0c5b45b",
     "motion_tracking_rl/networks/layers/mlp.py": "0f7e67250a77f6dd15506664298de8cf202ec02aeb39fe960e629b74172b25c6",
     "motion_tracking_rl/networks/layers/normalization.py": "3028c732ca55a813dcf05405cdce7332f514840836a558be96de6a30f7b3dc6c",
-    "scripts/mjlab_eval_pmt_ckpt.py": "b0ce0433d956a1b1ca324ea180ca7b5ee895609f4030dc81a378f326346dc474"
+    "scripts/mjlab_eval_pmt_ckpt.py": "b0ce0433d956a1b1ca324ea180ca7b5ee895609f4030dc81a378f326346dc474",
+    "configs/task/multimotionv2_adaptive_flat.yaml": "83ef5f47a366cbadb7ff4d45cf3abfeddfadda090eb87ff4659f923afe437555",
+    "configs/obs/proprio.yaml": "fbe27cbb15325d56750b93be6d2ed8c3dc2ebc2d2eb41168e3c36c345466f80e",
+    "configs/network/mlp.yaml": "1113223d1dedd444c99732a683eaacfd501b73011c9cf8c78adddb4f8c201974"
   },
   "isaaclab_commit": "5c2ec81cb17532d32f7922dd7fcaae40d123b71a",
   "isaaclab_math_sha256": "48f7052ed30d9e7ae21e0e20ac963ccb52f784a076f1a602cae1c641e923e3cd",

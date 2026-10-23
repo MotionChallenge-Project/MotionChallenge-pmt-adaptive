@@ -1,5 +1,5 @@
 {
-  "id": "pmt-flat-g1-v1",
+  "id": "pmt-adaptive-g1-v1",
   "entrypoint": "adapter:create",
   "control_period_s": 0.02,
   "reference_offsets_s": [
@@ -9,9 +9,9 @@
   "reference_preview_s": 0,
   "state_access": "privileged-state-v0",
   "action_mode": "joint-pd-feedforward",
-  "weights": "checkpoints/multimotionv2_flat.pt",
-  "weights_url": "https://huggingface.co/datasets/aCodeDog/PMT-assets/resolve/38f9f7dba893385c6219620b72314396247c9e82/checkpoints/pretrained/multimotionv2_flat.pt",
-  "weights_sha256": "dce21ee052099c49b847e04a4bfe5aa4baea94bc8992b72e5f30d2b67f13dd26",
+  "weights": "checkpoints/multimotionv2_adaptive_flat.pt",
+  "weights_url": "https://huggingface.co/datasets/aCodeDog/PMT-assets/resolve/38f9f7dba893385c6219620b72314396247c9e82/checkpoints/pretrained/multimotionv2_adaptive_flat.pt",
+  "weights_sha256": "48b267f01a632b90577148ea1801d291e2e1f3d5321807153a26f38cd4104b25",
   "inference_config": "policy.json",
   "inference_config_sha256": "7b63c8a7fbeb327620a655bcc2e151ffcd59b896fd84b3b9a7766d826d19569f",
   "source_repository": "https://github.com/Mondo-Robotics/PMT",
