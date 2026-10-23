@@ -21,3 +21,9 @@ Shared benchmark physics and failure rules are owned by the core.
 This is a maintainer adaptation, not an author submission.
 
 See [provenance](provenance.json) and [inference validation](validate_inference.py).
+
+## Checkpoint source
+
+[Mondo-Robotics/PMT](https://github.com/Mondo-Robotics/PMT/blob/1a92390077d329d22cbcdbf89c4a5c982003fbc8/README.md) · [multimotionv2_flat.pt](https://huggingface.co/datasets/aCodeDog/PMT-assets/blob/38f9f7dba893385c6219620b72314396247c9e82/checkpoints/pretrained/multimotionv2_flat.pt). Author-released checkpoint.
+
+The adapter pins this published artifact by SHA256. Artifact identity is separate from inference parity.
