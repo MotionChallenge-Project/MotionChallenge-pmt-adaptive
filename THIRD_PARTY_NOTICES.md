@@ -1,0 +1,1 @@
+PMT configuration and inference semantics: Mondo-Robotics/PMT, commit 1a92390077d329d22cbcdbf89c4a5c982003fbc8. BSD-3-Clause; see LICENSE.PMT. Native validation reads upstream source and Isaac Lab math at pinned SHA256 values. No checkpoints or simulator assets are redistributed. The core carries its own notices.

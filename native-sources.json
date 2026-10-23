@@ -1,0 +1,19 @@
+{
+  "pmt_commit": "1a92390077d329d22cbcdbf89c4a5c982003fbc8",
+  "files": {
+    "pmt_tasks/robots/g1.py": "d5d5f5cf516b5a0298db53c527d3bca5ef49a8e8ed63f9fcc1f243ab9b95e96e",
+    "pmt_tasks/env_cfgs/multi_motion_flat.py": "eb8613fa54e6549ada2f3a14c1d6b0e9214dd0a74acafba2295319bcfc43f413",
+    "pmt_tasks/tracking_env_cfg.py": "c914d6d117e194c5adec08de1983135755b9830b0b82b91627479d5e2367c441",
+    "pmt_tasks/mdp/observations.py": "49d51a53db2492737fe8dcff3c71708b9452e033c49f81c931a490ecbf0e9800",
+    "pmt_tasks/agent_cfgs/multi_motion_ppo.py": "a83b758b3d8bca8699150efbf60731d50d585b1e068471b7aef6062a1c21bec9",
+    "motion_tracking_rl/networks/actor_critic.py": "12e290ee6a279e648cce90b0dbec3d3aee8bbf519657b7a773f715f7b0c5b45b",
+    "motion_tracking_rl/networks/layers/mlp.py": "0f7e67250a77f6dd15506664298de8cf202ec02aeb39fe960e629b74172b25c6",
+    "motion_tracking_rl/networks/layers/normalization.py": "3028c732ca55a813dcf05405cdce7332f514840836a558be96de6a30f7b3dc6c",
+    "scripts/mjlab_eval_pmt_ckpt.py": "b0ce0433d956a1b1ca324ea180ca7b5ee895609f4030dc81a378f326346dc474"
+  },
+  "isaaclab_commit": "5c2ec81cb17532d32f7922dd7fcaae40d123b71a",
+  "isaaclab_math_sha256": "48f7052ed30d9e7ae21e0e20ac963ccb52f784a076f1a602cae1c641e923e3cd",
+  "isaaclab_observations_sha256": "ac9662dac074c66e91fd18bb707f8a5efc820d33e115fdea638bc91c037bb41b",
+  "isaaclab_articulation_sha256": "bfe53518d1c511455b3538dcee487845ccfe1b62ddbd9c2cd92794137d390994",
+  "canonical_robot_xml_sha256": "e00d66e8a9971c1b4c08c3f8cd175f96c6f88ce46fdfc98b85f4587ea4810b9b"
+}
