@@ -7,7 +7,7 @@
   ],
   "reference_history_s": 0,
   "reference_preview_s": 0,
-  "state_access": "privileged-state-v0",
+  "state_access": "ideal-proprioceptive-no-position-v1",
   "action_mode": "joint-pd-feedforward",
   "weights": "checkpoints/multimotionv2_adaptive_flat.pt",
   "weights_url": "https://huggingface.co/datasets/aCodeDog/PMT-assets/resolve/38f9f7dba893385c6219620b72314396247c9e82/checkpoints/pretrained/multimotionv2_adaptive_flat.pt",
@@ -16,5 +16,9 @@
   "inference_config_sha256": "7b63c8a7fbeb327620a655bcc2e151ffcd59b896fd84b3b9a7766d826d19569f",
   "source_repository": "https://github.com/Mondo-Robotics/PMT",
   "source_commit": "1a92390077d329d22cbcdbf89c4a5c982003fbc8",
-  "official": false
+  "official": false,
+  "observation_contract": {
+    "admission_record": "admission.json",
+    "admission_sha256": "90e7a261aa5917c38d0e4fc86844477cbcca1bbd4b78869bbe0f04ee65009165"
+  }
 }
